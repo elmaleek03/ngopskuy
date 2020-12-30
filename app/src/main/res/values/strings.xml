@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ngopskuy</string>
+    <string name="text_title">all you need is <br /> love &amp; a cup <br />of coffee</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome">Welcome</string>
+    <string name="favorit">Favorit</string>
+</resources>
